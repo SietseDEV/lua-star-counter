@@ -1,0 +1,11 @@
+-Windows-
+1. Install lua (find tutorial on YT or google)
+2. Open the 'play.bat' file it may say its not secure and is a virus but click to accept the risk (its safe and open source)
+
+-Mac-
+1. Install lua (find tutorial on YT or google)
+2. Run the game.lua file with lua (search how to run a lua file on mac on YT or google)
+
+-Linux-
+1. Install lua (find tutorial on YT)
+2. Run the game.lua file with lua (search how to run a lua file on 'YOUR DISTRO' on YT or google)
