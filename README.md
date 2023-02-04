@@ -8,20 +8,32 @@ this was made with chatGPT to test it please read bellow
 I'm re-programming this game from scratch now it will not be made by chatGPT it will then not be open-sourced it will be transformed into a real game with ui and saving data over devices and sessions it will be under my company Sowat and will work with a Sowat Games Account the Sowat site is currently down dont try to search it not up the Sowat games account will work on multiple games to save easilly and the game will be in the Sowat Games Launcher. Please wish me luck im just done with the start screen
 
 Info new game:
+
 Engine: from scratch in html css js
+
 Platfrom: Windows maybe Android
+
 International account system: Yes (Sowat Games)
+
 Multiple platfrom save: Yes
+
 Company: Sowat
+
 Author: SietseDev/Sietse Gorris. Owner of Sowat
 
+
 Current progress background resolution will be fixed:
+
 ![image](https://user-images.githubusercontent.com/110413038/216789564-6eb8ba6b-a89f-4026-b853-93a6a7e9caeb.png)
+
 most things on the image will change
+
 
 the existing projects licence (The lua game this repo):
 
+
 ![image](https://user-images.githubusercontent.com/110413038/216789607-06433f09-fec2-450b-95d4-86470c9aa3cd.png)
+
 
 MIT License
 
