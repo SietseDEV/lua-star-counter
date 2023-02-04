@@ -17,6 +17,8 @@ International account system: Yes (Sowat Games)
 
 Multiple platfrom save: Yes
 
+Run-in-browser: No it will be compiled into a app
+
 Company: Sowat
 
 Author: SietseDev/Sietse Gorris. Owner of Sowat
