@@ -19,7 +19,7 @@ Multiple platfrom save: Yes
 
 Run-in-browser: No it will be compiled into a app
 
-Company: Sowat
+Company: [Sowat](https://github.com/sowat-official)
 
 Author: SietseDev/Sietse Gorris. Owner of Sowat
 
