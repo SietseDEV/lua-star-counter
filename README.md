@@ -21,7 +21,7 @@ Run-in-browser: No it will be compiled into a app
 
 Company: [Sowat](https://github.com/sowat-official)
 
-Author: SietseDev/Sietse Gorris. Owner of Sowat
+Author: [SietseDev](https://github.com/SietseDEV)/Sietse Gorris. Owner of Sowat
 
 
 Current progress background resolution will be fixed:
